@@ -1,0 +1,14 @@
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\bin\Debug\HC3-BankInterface.exe.config
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\bin\Debug\HC3-BankInterface.exe
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\bin\Debug\HC3-BankInterface.pdb
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\bin\Debug\HC3-BankInterface.xml
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3-BankInterface.vbprojResolveAssemblyReference.cache
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3_BankInterface.Form1.resources
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3_BankInterface.Resources.resources
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3-BankInterface.vbproj.GenerateResource.Cache
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3-BankInterface.vbproj.CoreCompileInputs.cache
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3-BankInterface.exe
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3-BankInterface.xml
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3-BankInterface.pdb
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3_BankInterface.Form2.resources
+C:\Users\Sherwin\source\repos\HC3-BankInterface\HC3-BankInterface\obj\Debug\HC3_BankInterface.Form3.resources
